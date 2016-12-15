@@ -1,4 +1,4 @@
 # FlappieBerd
 FlappieBerd clone! Tis fun.
 
-theresistancekth.github.io/FlappieBerd/
+https://theresistancekth.github.io/FlappieBerd/
